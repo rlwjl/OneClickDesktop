@@ -12,7 +12,7 @@
 #    instructions on Guacamole setup.                                                     #
 #    https://www.linuxbabe.com/debian/apache-guacamole-remote-desktop-debian-10-buster    #
 #                                                                                         #
-#    Thank you for using this script.                                                     #
+#    Thank you for using this script.                   U18 U20                           #
 ###########################################################################################
 
 
